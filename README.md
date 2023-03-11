@@ -17,3 +17,12 @@ You may feel assignments tough at one point of time, but moving ahead, you'll fe
 ***Assignment PDF***: [CG_Assignment_0.pdf](./A0/CG_Assignment_0.pdf)
 
 ---
+
+## Assignment - 1
+> ## 2-D Game in OpenGL
+
+***Main Problem Statement***: Making a clone of Jetpack Joyride using OpenGL. Major components include the moving character, traps, background, and coins.
+
+***Assignment PDF***: [CG_Assignment_1.pdf](./A1/CG_Assignment_1.pdf)
+
+----
