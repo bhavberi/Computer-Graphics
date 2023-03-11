@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: consolas;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #232323;
+
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+/* #start {
+    width: 100%;
+    height: 100%;
+} */
+
+button {
+    background: transparent;
+    border: none !important;
+}
+
+button:hover i{
+    color: #e0ea9e;
+}
+
+span {
+    position: relative;
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    padding: 8px 15px;
+    margin: 8px 4px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #282828, #202020);
+    box-shadow: inset -8px 0 8px rgba(0, 0, 0, 0.15),
+        inset 0 -8px 8px rgba(0, 0, 0, 0.25),
+        0 0 0 2px rgba(0, 0, 0, 0.75),
+        10px 20px 25px rgba(0, 0, 0, 0.4);
+    overflow: hidden;
+    cursor: none;
+}
+
+span:first-child {
+    margin: 8px 99px;
+}
+
+span:nth-child(7) {
+    margin: 8px 250px;
+}
+
+span:last-child {
+    width: 100%;
+    margin: 8px 200px;
+    cursor: pointer;
+}
+
+span::before {
+    content: '';
+    position: absolute;
+    top: 3px;
+    left: 4px;
+    bottom: 14px;
+    right: 12px;
+    background: linear-gradient(90deg, #232323, #4a4a4a);
+    border-radius: 10px;
+    box-shadow: -10px -10px 10px rgba(255, 255, 255, 0.25),
+        10px 5px 10px rgba(0, 0, 0, 0.15);
+    border-left: 1px solid #0004;
+    border-bottom: 1px solid #0004;
+    border-top: 1px solid #0009;
+}
+
+span i {
+    position: relative;
+    color: #fff;
+    font-size: 1.5em;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+h2 {
+    /* position: relative; */
+    color: #fff;
+    font-size: 2em;
+    font-style: oblique;
+    text-transform: uppercase;
+}
+
+h1 {
+    /* position: relative; */
+    color: cyan;
+    font-size: 4em;
+    font-style:normal;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h3 {
+    width: auto;
+    height: auto;
+    position: absolute;
+    text-align: center;
+}
+
+.fuel {
+    margin-left: 10%;
+}
+
+.speed {
+    margin-left: 25%;
+}
+
+.score {
+    margin-left: 40%;
+}
+
+.health {
+    margin-left: 55%;
+}
+
+.time {
+    margin-left: 70%;
+}
+
+.mileage {
+    margin-left: 1%;
+    margin-top: 50px;
+}
+
+.next {
+    margin-left: 1%;
+    margin-top: 75px;
+}

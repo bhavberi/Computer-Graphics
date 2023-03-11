@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lightning McQueen Xbox 360 Model
+* source:	https://sketchfab.com/3d-models/lightning-mcqueen-xbox-360-model-8c9f6ae266ad4e1c84e09933fd9a2075
+* author:	Kyle.withem (https://sketchfab.com/Kyle.withem)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lightning McQueen Xbox 360 Model" (https://sketchfab.com/3d-models/lightning-mcqueen-xbox-360-model-8c9f6ae266ad4e1c84e09933fd9a2075) by Kyle.withem (https://sketchfab.com/Kyle.withem) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

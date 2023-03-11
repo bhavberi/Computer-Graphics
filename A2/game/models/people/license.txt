@@ -1,0 +1,11 @@
+Model Information:
+* title:	People
+* source:	https://sketchfab.com/3d-models/people-7d3489aa221341c2a5abfa8ca007b6d4
+* author:	Xenoreptire (https://sketchfab.com/xenoreptire)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "People" (https://sketchfab.com/3d-models/people-7d3489aa221341c2a5abfa8ca007b6d4) by Xenoreptire (https://sketchfab.com/xenoreptire) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

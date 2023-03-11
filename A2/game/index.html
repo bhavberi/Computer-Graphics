@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiz="X-UA-Compatible" content="ie=edge" />
+    <title>BB Game</title>
+    <link rel="stylesheet" href="start.css">
+</head>
+
+<body>
+    <!-- LIBRARIES -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/stats.js/16/Stats.min.js"></script>
+    <script type="importmap">
+      {
+      "imports": {
+            "three": "https://cdn.skypack.dev/three@0.149.0/build/three.module",
+            "three/": "https://cdn.skypack.dev/three@0.149.0/"
+      }
+     }
+    </script>
+
+    <!-- SOURCE MAIN FILE -->
+    <script type="module" src="game.js"></script>
+
+    <!-- HTML CODE -->
+    <div id="start">
+        <h1>BB Game &#8482;</h1>
+        <h2>CONTROLS FOR THE GAME:-</h2><br /><br />
+        <div style="-moz-user-select: none; -webkit-user-select: none; -ms-user-select:none; user-select:none;-o-user-select:none;"
+            unselectable="on" onselectstart="return false;" onmousedown="return false;">
+            <span><i>&nbsp;&#8593;<br />&nbsp;W</i></span><br />
+            <span><i>&#8592; A</i></span>
+            <span><i>&nbsp;S<br />&nbsp;&#8595;</i></span>
+            <span><i>D &#8594;</i></span><br />
+            <span><i>C 📷</i></span><br />
+            <button onclick="console.log('Game Started')" id="start_button"><span><i>CONTINUE<br />to
+                        Game</i></span></button>
+        </div>
+    </div>
+
+    <div id="game"
+        style="z-index: 100; display: none; position:absolute; min-height: 20px; min-width: 100%; top: 10px;-moz-user-select: none; -webkit-user-select: none; -ms-user-select:none; user-select:none;-o-user-select:none;">
+        <h3 class="fuel">Fuel</h3>
+        <h3 class="speed">Speed</h3>
+        <h3 class="score">Score</h3>
+        <h3 class="health">Health</h3>
+        <h3 class="time">Time</h3>
+        <br />
+        <h3 id="fuel" class="fuel">100%</h3>
+        <h3 id="speed" class="speed">300</h3>
+        <h3 id="score" class="score">5000</h3>
+        <h3 id="health" class="health">100</h3>
+        <h3 id="time" class="time">0:0</h3>
+
+        <h3 id="mileage" class="mileage">Mileage:</h3>
+        <h3 id="next" class="next"></h3>
+    </div>
+
+    <div id="end"
+        style="z-index:100;-moz-user-select: none; -webkit-user-select: none; -ms-user-select:none; user-select:none;-o-user-select:none;">
+    </div>
+</body>
+
+</html>
