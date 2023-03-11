@@ -34,3 +34,5 @@ Install using (Assuming you have vscode already):
 After you have all the above packages and libraries, you can use the `run` functionality of VSCode.
 
 You must press space to accelerate the character up. You have three lives, so prevent colliding with the obstacles. There are total of 3 levels, and you must complete them to win the game. Collect more coins to increase your score.
+
+(You may need to change the directory of the shader and other files to your local directory)
