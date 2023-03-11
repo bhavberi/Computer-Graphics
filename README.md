@@ -35,3 +35,19 @@ You may feel assignments tough at one point of time, but moving ahead, you'll fe
 ***Assignment PDF***: [CG_Assignment_2.pdf](./A2/CG_Assignment_2.pdf)
 
 ---
+
+> # &#x2193; BEST PART (As per me) &#x2193;
+## Mini Project 
+> ## Short Animated Video Clip
+
+***Main Problem Statement***: Making a short (1-1.5 mins) animated video clip using blender/unreal engine showcasing different characters/objects interacting under animation.
+
+***Assignment PDF***: [CG_Mini_Project.pdf](./Mini%20Project/CG_Mini_Project.pdf)
+
+***Team Members***:
+- Bhav Beri
+- Divij 
+- Pranav Agrawal
+- Harshit Agrawal
+
+---
