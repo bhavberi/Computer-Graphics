@@ -1,0 +1,2 @@
+E:\Dev\OpenGL\A0\A0\x64\Debug\A0.vcxproj.CopyComplete
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A0\A0\A0\x64\Debug\A0.vcxproj.CopyComplete
