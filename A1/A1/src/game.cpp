@@ -64,7 +64,7 @@ void Game::localInit()
     this->Levels[0].person = "person";
     this->Levels[0].Maxy = (this->Height - (float)PLAYER_SIZE.y) / 2.0f + 255.0f;
     this->Levels[0].Miny = 90.0f;
-    this->Levels[0].Length = this->Width * 5;
+    this->Levels[0].Length = this->Width * 11;
     this->Levels[0].speed = 0.55f;
     this->Levels[0].Generate_Pipes(this->Width * 2, 400, { this->Levels[0].Miny, this->Levels[0].Maxy }, this->Levels[0].Length - this->Width, 15, 0.55f);
     this->Levels[0].Generate_Coins(this->Width, { this->Levels[0].Miny, this->Levels[0].Maxy }, this->Levels[0].Length - this->Width, 100, 0.55f);
@@ -73,7 +73,7 @@ void Game::localInit()
     this->Levels[1].person = "person";
     this->Levels[1].Maxy = (this->Height - (float)PLAYER_SIZE.y) / 2.0f + 190.0f;
     this->Levels[1].Miny = (this->Height - (float)PLAYER_SIZE.y) / 2.0f - 240.0f;
-    this->Levels[1].Length = this->Width * 5;
+    this->Levels[1].Length = this->Width * 12;
     this->Levels[1].speed = 0.6f;
     this->Levels[1].Generate_Pipes(this->Width * 2, 300, { this->Levels[1].Miny, this->Levels[1].Maxy }, this->Levels[1].Length, 15, 0.75f);
     this->Levels[1].Generate_Coins(this->Width, { this->Levels[1].Miny, this->Levels[1].Maxy }, this->Levels[1].Length - this->Width, 80, 0.75f);
@@ -82,7 +82,7 @@ void Game::localInit()
     this->Levels[2].person = "person1";
     this->Levels[2].Maxy = (this->Height - (float)PLAYER_SIZE.y) / 2.0f + 255.0f;
     this->Levels[2].Miny = 20.0f;
-    this->Levels[2].Length = this->Width * 6;
+    this->Levels[2].Length = this->Width * 11;
     this->Levels[2].speed = 0.75f;
     this->Levels[2].Generate_Pipes(this->Width * 2, 300, { this->Levels[2].Miny, this->Levels[2].Maxy }, this->Levels[2].Length, 20, 0.95f);
     this->Levels[2].Generate_Coins(this->Width, { this->Levels[2].Miny, this->Levels[2].Maxy }, this->Levels[2].Length - this->Width, 120, 0.95f);
