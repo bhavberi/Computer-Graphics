@@ -1,0 +1,37 @@
+﻿  game.cpp
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(49,63): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(50,63): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(65,73): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(66,28): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(74,73): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(75,73): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(83,73): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(84,28): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(108,27): warning C4244: 'argument': conversion from 'int' to 'irrklang::ik_f32', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(166,42): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(168,42): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(195,39): warning C4244: 'argument': conversion from 'int' to 'irrklang::ik_f32', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(205,39): warning C4244: 'argument': conversion from 'int' to 'irrklang::ik_f32', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(227,31): warning C4244: 'argument': conversion from 'int' to 'irrklang::ik_f32', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(241,35): warning C4244: 'argument': conversion from 'int' to 'irrklang::ik_f32', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(260,42): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(262,42): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(285,35): warning C4244: 'argument': conversion from 'int' to 'irrklang::ik_f32', possible loss of data
+C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\A1\src\game.cpp(409,39): warning C4244: 'argument': conversion from 'int' to 'irrklang::ik_f32', possible loss of data
+  A1.vcxproj -> C:\Users\bhavb\OneDrive\Desktop\CG\2021111013_A1\x64\Debug\A1.exe
