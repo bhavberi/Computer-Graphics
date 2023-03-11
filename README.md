@@ -8,3 +8,12 @@ Got to learn a lot from this course, and this was as practical as it was theoret
 You may feel assignments tough at one point of time, but moving ahead, you'll feel good after completing them and seeing the final result.
 
 ---
+
+## Assignment - 0
+> ## Basics of OpenGL
+
+***Main Problem Statement***: Generating a n-sided polygon/prism and rendering it using OpenGL in C++.
+
+***Assignment PDF***: [CG_Assignment_0.pdf](./A0/CG_Assignment_0.pdf)
+
+---
