@@ -26,3 +26,12 @@ You may feel assignments tough at one point of time, but moving ahead, you'll fe
 ***Assignment PDF***: [CG_Assignment_1.pdf](./A1/CG_Assignment_1.pdf)
 
 ----
+
+## Assignment - 2
+> ## 3-D Game in OpenGL/WebGL + Threejs
+
+***Main Problem Statement***: Making a 3d car racing game.
+
+***Assignment PDF***: [CG_Assignment_2.pdf](./A2/CG_Assignment_2.pdf)
+
+---
